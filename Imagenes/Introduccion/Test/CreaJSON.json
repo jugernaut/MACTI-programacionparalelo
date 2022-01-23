@@ -1,0 +1,54 @@
+{
+    "alumnos": [
+        {
+            "Nombre": "Peter",
+            "Tutor": "Mario Molina",
+            "Especilidad": "actuaria"
+        },
+        {
+            "Nombre": "Pedro",
+            "Tutor": "Miguel de Icaza",
+            "Especilidad": "ciencias de la computacion"
+        },
+        {
+            "Nombre": "Sonia",
+            "Tutor": "Miguel de Icaza",
+            "Especilidad": "ciencias de la computacion"
+        },
+        {
+            "Nombre": "Alvaro",
+            "Tutor": "Isaac Newton",
+            "Especilidad": "matematicas"
+        },
+        {
+            "Nombre": "Alfa",
+            "Tutor": "Isaac Newton",
+            "Especilidad": "matematicas"
+        },
+        {
+            "Nombre": "Almendra",
+            "Tutor": "Charles Darwin",
+            "Especilidad": "biologia"
+        },
+        {
+            "Nombre": "Gisel",
+            "Tutor": "Charles Darwin",
+            "Especilidad": "biologia"
+        },
+        {
+            "Nombre": "Mike",
+            "Tutor": "Mark Musk",
+            "Especilidad": "ciencia de datos"
+        },
+        {
+            "Nombre": "Canek",
+            "Tutor": "Mark Musk",
+            "Especilidad": "ciencia de datos"
+        },
+        {
+            "Nombre": "Arturo",
+            "Tutor": "Mark Musk",
+            "Especilidad": "ciencia de datos"
+        }
+    ]
+}
